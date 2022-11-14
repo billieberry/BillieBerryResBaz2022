@@ -1,30 +1,30 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Billie Berry
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Billie
+last_name: Berry
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Learning Designer, Centre for Academic Development
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Victoria University of Wellington
+    url: https://www.wgtn.ac.nz/learning-teaching/cad
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a learning designer
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Learning Design
+  - Learning Design
+  - Learning Design
 
 # Education to show in About widget
 education:
